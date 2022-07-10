@@ -1,3 +1,7 @@
+#Wordle
+
+Wordle, but with a little twist as there are 3 difficulties easy, medium & hard.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
